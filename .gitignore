@@ -11,6 +11,13 @@ desktop.ini
 .env
 .env.*
 !.env.example
+*.pem
+*.key
 
-# Logs
+# Python Virtual Environments
 *.log
+venv/
+.venv/
+
+__pycache__/
+*.py[cod]
