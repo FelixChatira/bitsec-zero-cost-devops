@@ -1,12 +1,5 @@
 # BitSec – Local Web Application & DevOps Deployment
 
-![Project Status](https://img.shields.io/badge/Project-Active-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-Ubuntu%20WSL2-orange)
-![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20Flask-blue)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
-![Web Server](https://img.shields.io/badge/Web%20Server-Nginx-green)
-![Deployment](https://img.shields.io/badge/Deployment-Cloudflare-orange)
-
 **BitSec** is a locally hosted web application deployment project designed to demonstrate practical DevOps engineering using open-source technologies.
 
 The project demonstrates how to build, configure, deploy, expose, and manage a web application using a local Linux environment without depending on paid cloud infrastructure.
@@ -163,7 +156,7 @@ A purchased domain name is not required for Quick Tunnel deployment.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bitsec-zero-cost-devops.git
+git clone https://github.com/FelixChatira/bitsec-zero-cost-devops.git
 ```
 
 Navigate into the project directory:
